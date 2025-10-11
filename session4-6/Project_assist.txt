@@ -1,0 +1,10 @@
+Name: ClearMail – AI Email Rewriter
+
+Tagline: Transform unclear emails into polished, professional messages in seconds.
+
+Core Features:
+1. Instantly rewrites emails based on tone (Formal, Polite, or Friendly).
+2. Ensures clarity, correct grammar, and smooth sentence structure.
+3. Maintains the original meaning while improving flow and professionalism.
+4. Lightweight and fast — processes text within seconds.
+5. Simple React-based interface with Node.js backend powered by OpenAI API.
