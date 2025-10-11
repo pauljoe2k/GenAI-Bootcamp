@@ -39,24 +39,6 @@ Rewritten Email → Frontend → User
 | Environment| dotenv             | Handling API keys securely                  |
 | CORS       | Express-CORS       | Enables frontend-backend communication      |
 
-## Folder Structure
-```
-clearmail/
-│
-├── frontend/              # React UI
-│   ├── src/
-│   └── package.json
-│
-├── backend/               # Node.js server
-│   ├── index.js
-│   ├── .env
-│   ├── package.json
-│   └── README.md
-│
-└── README.md              # Project overview
-```
-
-
 ## Example Usage
 **Input:**  
 ```
