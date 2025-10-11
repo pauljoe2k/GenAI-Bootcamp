@@ -2,6 +2,7 @@ Name: ClearMail – AI Email Rewriter
 
 Tagline: Transform unclear emails into polished, professional messages in seconds.
 
+
 Core Features:
 1. Instantly rewrites emails based on tone (Formal, Polite, or Friendly).
 2. Ensures clarity, correct grammar, and smooth sentence structure.
