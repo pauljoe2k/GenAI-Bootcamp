@@ -97,6 +97,5 @@ Users can instantly convert any unclear or unpolished email into a well-written,
 ```
 /session-1-3/
  ├── hld.md
- ├── project_assets.txt
- └── system_prompt.txt
+ ├── Readme.md
 ```
