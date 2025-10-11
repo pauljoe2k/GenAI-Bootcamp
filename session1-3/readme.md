@@ -15,6 +15,7 @@ Create a lightweight web app that helps users write better emails using an AI mo
 3. **AI Processing**: Node.js backend forwards the request to OpenAI GPT model for rewriting.  
 4. **Response Display**: Backend returns the rewritten text and frontend displays it to the user.
 
+
 ### System Workflow
 ```
 User (Browser)
@@ -27,6 +28,7 @@ OpenAI GPT API
      ↓
 Rewritten Email → Frontend → User
 ```
+
 
 ## Tech Stack
 | Layer       | Technology          | Purpose                                      |
