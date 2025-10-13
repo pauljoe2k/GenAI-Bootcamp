@@ -17,12 +17,12 @@ function addMessageToChat(user, text) {
         console.log(`🗑️ Removed oldest message: ${removed.user}: ${removed.text}`);
     }
 
-    // // Display current chat history
-    // console.log('--- Chat History ---');
-    // chatHistory.forEach((msg, index) => {
-    //     console.log(`${index + 1}. ${msg.user}: ${msg.text}`);
-    // });
-    // console.log('-------------------\n');
+    // Display current chat history
+    console.log('--- Chat History ---');
+    chatHistory.forEach((msg, index) => {
+        console.log(`${index + 1}. ${msg.user}: ${msg.text}`);
+    });
+    console.log('-------------------\n');
 }
 
 // Simulate a conversation
