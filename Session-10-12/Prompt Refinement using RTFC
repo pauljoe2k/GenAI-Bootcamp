@@ -1,0 +1,47 @@
+Part 2 — Prompt Refinement using RTFC
+Objective
+
+Improve unclear or inefficient prompts using the RTFC framework so AI outputs are more accurate, structured, and cost-efficient.
+
+RTFC Components
+Component	Description
+R — Role	Tell the AI who it should act as (e.g., “You are a data analyst”).
+T — Task	Specify what you want the AI to do (e.g., “Summarize the experiment results”).
+F — Format	Define how the output should look (e.g., bullet points, table).
+C — Constraint	Add limits or tone (e.g., “Keep it under 100 words”, “Use non-technical language”).
+Steps
+
+Each student brings a “bad” or unclear prompt related to their project.
+
+Refine the prompt using RTFC to make it clear, structured, and precise.
+
+Test both versions in Google AI Studio.
+
+Document the results:
+
+Before (bad prompt)
+
+After (RTFC refined prompt)
+
+Notes explaining why the refined prompt is better.
+
+Example
+
+Bad Prompt (Before):
+
+Summarize results.
+
+Refined Prompt (After — RTFC Applied):
+
+Role: You are a research analyst.
+Task: Summarize the key insights from the dataset, highlighting trends and anomalies.
+Format: Provide a table with columns “Metric”, “Observation”, “Conclusion”.
+Constraint: Use simple language suitable for non-technical team members.
+
+Notes on improvement:
+
+Added role to control tone and style.
+
+Structured output using a table for clarity.
+
+Added constraint to make it readable for all stakeholders.
