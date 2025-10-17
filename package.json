@@ -1,0 +1,20 @@
+{
+  "name": "genai-bootcamp",
+  "version": "1.0.0",
+  "description": "Writing clear and professional emails is difficult for many people, especially students, job seekers, and non-native English speakers. Emails often sound unprofessional, overly casual, or unclear, causing confusion and missed opportunities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauljoe2k/GenAI-Bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauljoe2k/GenAI-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/pauljoe2k/GenAI-Bootcamp#readme"
+}
